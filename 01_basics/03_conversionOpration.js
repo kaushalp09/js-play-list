@@ -21,7 +21,7 @@ console.log(booleanISLoggedIn);
 // "" => false
 // "hitesh" => true
 
-let someNUmber = 33
+let someNUmber = "33"
 
 let stringNumber = String(someNUmber)
 console.log(someNUmber)
